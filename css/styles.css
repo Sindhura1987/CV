@@ -1,0 +1,45 @@
+div{
+  background-color:#c7f0db;
+  text-align: center;
+
+}
+
+h1{
+  font-size: 60px;
+  font-family: Great Vibes ;
+}
+h2{
+  font-family: Satisfy ;
+}
+.top-container{
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  right: 300px;
+  top: 30px;
+}
+
+.top-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+.web-development{
+
+  width: 300px;
+  height: 200px;
+}
+.painting{
+
+  width: 300px;
+  height: 200px;
+}
+.photography{
+
+  width: 300px;
+  height: 200px
+}
